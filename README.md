@@ -23,3 +23,4 @@ This web application provides real-time weather information for any location usi
 
 
 **Note:** This project is for educational purposes and should not be used in production without proper error handling and security measures.
+![Screenshot (1247)](https://github.com/PP-Pratiksha/Weather_App/assets/117968440/1563d03f-85ba-4b75-80d9-2ada39887421)
